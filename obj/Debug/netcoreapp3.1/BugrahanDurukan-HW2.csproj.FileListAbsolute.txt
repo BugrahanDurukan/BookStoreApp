@@ -1,0 +1,171 @@
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.AssemblyInfoInputs.cache
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.AssemblyInfo.cs
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.csproj.CoreCompileInputs.cache
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.RazorAssemblyInfo.cache
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.RazorAssemblyInfo.cs
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.csprojAssemblyReference.cache
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.exe
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.deps.json
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.runtimeconfig.json
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.runtimeconfig.dev.json
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.pdb
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.Views.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.Views.pdb
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\staticwebassets\BugrahanDurukan-HW2.StaticWebAssets.Manifest.cache
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\staticwebassets\BugrahanDurukan-HW2.StaticWebAssets.xml
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\scopedcss\bundle\BugrahanDurukan-HW2.styles.css
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.TagHelpers.input.cache
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.TagHelpers.output.cache
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.RazorCoreGenerate.cache
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.RazorTargetAssemblyInfo.cache
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.RazorTargetAssemblyInfo.cs
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.Views.pdb
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.csproj.CopyComplete
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.dll
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.pdb
+C:\Users\leven\Downloads\C-Sahrp-HW2-Stuff\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.genruntimeconfig.cache
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.exe
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.deps.json
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.runtimeconfig.json
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.runtimeconfig.dev.json
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.pdb
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.Views.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\BugrahanDurukan-HW2.Views.pdb
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CS projects\BugrahanDurukan-HW2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.csprojAssemblyReference.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.AssemblyInfoInputs.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.AssemblyInfo.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.csproj.CoreCompileInputs.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.MvcApplicationPartsAssemblyInfo.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.RazorAssemblyInfo.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.RazorAssemblyInfo.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\staticwebassets\BugrahanDurukan-HW2.StaticWebAssets.Manifest.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\staticwebassets\BugrahanDurukan-HW2.StaticWebAssets.xml
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\scopedcss\bundle\BugrahanDurukan-HW2.styles.css
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.TagHelpers.input.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.TagHelpers.output.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.RazorCoreGenerate.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.RazorTargetAssemblyInfo.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.RazorTargetAssemblyInfo.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.Views.pdb
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.csproj.CopyComplete
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.dll
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.pdb
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\BugrahanDurukan-HW2.genruntimeconfig.cache
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Magazine\Index.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Novel\Index.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Magazine\Create.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Magazine\Delete.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Magazine\Detail.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Magazine\Edit.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Novel\Create.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Novel\Delete.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Novel\Detail.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Novel\Edit.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SessionView.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SessionCleared.cshtml.g.cs
+D:\CS projects\BugrahanDurukan-HW2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MagazineSummary.cshtml.g.cs

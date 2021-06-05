@@ -1,0 +1,31 @@
+﻿@model ListViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="text-center">
+    <img class="img image" src="~/images/novel.jpg" />
+    <h1 class="display-4">Welcome to a Novel Library</h1>
+</div>
+
+<td><a class="btn-primary btn" asp-controller="Novel" asp-action="Create">Create</a></td>
+
+<table class="table table-striped table-hover">
+    @foreach (Novel m in Model.Novels)
+    {
+        <tr>
+            <td>@m.Price</td>
+            <td>@m.Name</td>
+            <td><a calss="btn-primary" asp-controller="Novel" asp-action="Detail" asp-route-id="@m.NovelId">Detail</a></td>
+            <td><a calss="btn-primary" asp-controller="Novel" asp-action="Edit" asp-route-id="@m.NovelId">Edit</a></td>
+            <td><a calss="btn-primary" asp-controller="Novel" asp-action="Delete" asp-route-id="@m.NovelId">Delete</a></td>
+        </tr>
+    }
+</table>
+<div page-model="@Model.PagingInfo"
+     page-action="Index"
+     page-classes-enabled="true"
+     page-class-normal="btn-outline-dark"
+     page-class-selected="btn-primary"
+     class="btn-group m-1">
+</div>

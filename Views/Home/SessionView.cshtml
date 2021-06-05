@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Magazine>
+@{
+    ViewData["Title"] = "Magazine";
+}
+<h1>@ViewBag.Message </h1>
+
+@if (Model != null)
+{
+    @foreach (Magazine pr in Model)
+    {
+        <p> @pr.Name  @pr.Description</p>
+    }
+}
+else
+{
+    <p> Session is empty</p>
+}

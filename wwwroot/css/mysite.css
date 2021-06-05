@@ -1,0 +1,19 @@
+﻿.blackBackground{
+    background-color: black
+}
+
+.image{
+    max-height: 300px;
+}
+
+.myFooter{
+    color: white;
+    background: black;
+    text-align: center;
+}
+
+.aligner {
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
